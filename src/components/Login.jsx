@@ -88,7 +88,7 @@ function Login() {
           <div className="textbox">
             <FontAwesomeIcon icon={ faLock } />
             <input
-              placeholder="Password"
+              placeholder="buuuuuu"
               type="password"
               data-testid="password-input"
               onChange={ isPassword }
