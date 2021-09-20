@@ -1,0 +1,83 @@
+/* body {
+  background-color: #505050
+  ;
+} */
+
+/* .footer {
+  width: 100%;
+  background-color: #FFD43A;
+  height: 50px;
+  border-top: 3px solid black;
+  position: fixed;
+  bottom: 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.header {
+  width: 100%;
+  background-color: #FFD43A;
+  height: 79.875px;
+  border-bottom: 3px solid black;
+  position: fixed;
+  top: 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+} */
+.container-big-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.big-btn {
+  min-width: 335px;
+  background-color: #F8F8F8!important;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 6px;
+  font-family: Epilogue;
+  font-size: 26px;
+  line-height: 27px;
+  padding: 29px 0px;
+  margin-top: 20px;
+  padding-left: 90px;
+}
+
+.cesta-icon {
+  background: url(./images/xIngrediente.png) no-repeat;
+  background-size: 70px;
+  background-position-x: 10px;
+  background-position-y: 5px;
+}
+.globo-icon {
+  background: url(./images/xGlobo.png) no-repeat;
+  background-size: 60px;
+  background-position-x: 15px;
+  background-position-y: 10px;
+}
+.surpresa-icon {
+  background: url(./images/xSurpise.png) no-repeat;
+  background-size: 70px;
+  background-position-x: 10px;
+  background-position-y: 0px;
+}
+.comida-icon {
+  background: url(./images/xMealBlack.png) no-repeat;
+  background-size: 90px;
+  background-position-x: 10px;
+  background-position-y: 5px;
+}
+.bebida-icon {
+  background: url(./images/xDrinkBlack.png) no-repeat;
+  background-size: 70px;
+  background-position-x: 18px;
+  background-position-y: 4px;
+}
+
+/* .headerSearch {
+  margin-top: 84px;
+} */
