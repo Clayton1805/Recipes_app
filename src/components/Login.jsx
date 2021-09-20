@@ -80,7 +80,7 @@ function Login() {
             <FontAwesomeIcon icon={ faUser } />
             <input
               type="email"
-              placeholder="Login"
+              placeholder="E-mail"
               data-testid="email-input"
               onChange={ isEmail }
             />
